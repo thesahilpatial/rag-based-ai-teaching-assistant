@@ -1,0 +1,9 @@
+Welcome to our web development course! I see you're looking for information about CSS selectors.
+
+From what I understand, the topic of CSS selectors is covered in two videos: "Introduction to CSS" (Video 14) and "CSS Selectors MasterClass" (Video 17).
+
+In Video 14, "Introduction to CSS", we briefly touch on how CSS is written. However, this isn't where we delve into the details of CSS selectors.
+
+It's actually in Video 17, "CSS Selectors MasterClass", that we spend more time discussing CSS selectors and why they're useful for styling HTML elements. We also see examples of class selectors being used.
+
+If you'd like to learn more about CSS selectors, I recommend checking out Video 17. You can find it in our course library by searching for "CSS Selectors MasterClass". If you have any specific questions about CSS selectors or would like further clarification on the topic, feel free to ask!
