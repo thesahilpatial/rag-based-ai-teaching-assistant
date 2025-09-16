@@ -3,6 +3,7 @@ jsons/
 videos/
 *.mp3
 *.wav
+*.mp4
 embeddings.joblib
 response.txt
 prompt.txt
